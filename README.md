@@ -1,1 +1,1 @@
-# Diwali-sales-project-on-python
+# Diwali_sales_project_on_python
